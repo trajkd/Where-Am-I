@@ -1,4 +1,2 @@
-# Go Chase It!
-I used the Robot Operating System (ROS) to design a mobile robot. 
-Then, I housed my newly-designed robot in the robotic environment I built in Project 1. 
-I programmed my robot with C++ to chase a ball through this world.
+# Where am I
+I used the Monte Carlo Localization algorithm in ROS, in conjunction with sensor data and a map of the world, to estimate a mobile robot’s position and orientation so that my robot can answer the question “Where am I?”
